@@ -27,14 +27,10 @@ Mathematics | Statistics | Physics
 - **Master’s Thesis (Applied Mathematics, ongoing)**  
   *Reconstruction of Phase–Amplitude Dynamics from Signals of a Network of Oscillators via Neural Network Training*
 - **Bachelor’s Thesis (Physics)**  
-  *Steady State Bifurcations in Nonlinear Opinion Dynamics*  
-  [PDF](bsc-physics-thesis.pdf)
+  *Steady State Bifurcations in Nonlinear Opinion Dynamics* ([PDF](bsc-physics-thesis.pdf))
 - **Bachelor’s Thesis (Mathematics)**  
-  *Foundations of Morse Theory in Differential Topology*  
-  [PDF](bsc-maths-thesis.pdf)
+  *Foundations of Morse Theory in Differential Topology* ([PDF](bsc-maths-thesis.pdf))
 
-  
-  
 ---
 
 ## Relevant Coursework Projects
