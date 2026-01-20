@@ -24,7 +24,7 @@ Mathematics | Statistics | Physics
 ---
 
 ## Theses
-- **Master’s Thesis (ongoing)**  
+- **Master’s Thesis (Applied Mathematics, ongoing)**  
   *Reconstruction of Phase–Amplitude Dynamics from Signals of a Network of Oscillators via Neural Network Training*
 - **Bachelor’s Thesis (Physics)**  
   *Steady State Bifurcations in Nonlinear Opinion Dynamics*  
@@ -34,10 +34,10 @@ Mathematics | Statistics | Physics
   [PDF](bsc-maths-thesis.pdf)
 ---
 
-## Projects
-*Phase-Plane Analysis for FitzHugh-Nagumo Model* 
+## Relevant Coursework Projects
+*Phase-Plane Analysis of the FitzHugh–Nagumo Neuronal Model* 
 ([PDF](FHNM-project.pdf)),
-*Binocular Rivalry Problem*
+*Binocular Rivalry: Dynamical Model of Perceptual Competition*
 ([PDF](bin-riv-project.pdf)),
 *Fast-Slow Dynamical Systems*
 ([PDF](fast-slow-project.pdf)),
