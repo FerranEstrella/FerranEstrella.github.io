@@ -32,6 +32,7 @@ Mathematics | Statistics | Physics
 - **Bachelor’s Thesis (Mathematics)**  
   *Foundations of Morse Theory in Differential Topology*  
   [PDF](bsc-maths-thesis.pdf)
+  
 ---
 
 ## Relevant Coursework Projects
