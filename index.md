@@ -1,6 +1,6 @@
 # Ferran Estrella Serra
 
-**Mathematics | Statistics | Physics**
+Mathematics | Statistics | Physics
 
 
 ---
