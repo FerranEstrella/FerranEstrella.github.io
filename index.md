@@ -34,20 +34,15 @@ Mathematics | Statistics | Physics
 ---
 
 ## Relevant Projects
-### Dynamical Systems: 
-Theoretical and numerical studies on dynamical systems
-*Numerical Computation of Homoclinic Orbits in the Restricted Three Body Problem*
-([PDF](homoclinic-project.pdf)),
-*Numerical Computation of Invariant Manifolds of Periodic Orbits in the Restricted Three Body Problem*
-([PDF](invariant-project.pdf)),
-*Numerical Computation of Zero Velocity Curves and Poincaré Section Plots in the Restricted Three Body Problem*
-([PDF](ZVC-PSP-project.pdf)).
-*Phase-Plane Analysis of the FitzHugh–Nagumo Neuronal Model* 
-([PDF](FHNM-project.pdf)),
-*Binocular Rivalry: Dynamical Model of Perceptual Competition*
-([PDF](bin-riv-project.pdf)),
-*Fast-Slow Dynamical Systems*
-([PDF](fast-slow-project.pdf)),
+
+### Dynamical Systems
+
+* *Numerical Computation of Homoclinic Orbits in the Restricted Three Body Problem* ([PDF](homoclinic-project.pdf)) 
+* *Numerical Computation of Invariant Manifolds of Periodic Orbits in the Restricted Three Body Problem* ([PDF](invariant-project.pdf))  
+* *Numerical Computation of Zero Velocity Curves and Poincaré Section Plots in the Restricted Three Body Problem* ([PDF](ZVC-PSP-project.pdf))  
+* *Phase-Plane Analysis of the FitzHugh–Nagumo Neuronal Model* ([PDF](FHNM-project.pdf))  
+* *Binocular Rivalry: Dynamical Model of Perceptual Competition* ([PDF](bin-riv-project.pdf))  
+* *Fast-Slow Dynamical Systems* ([PDF](fast-slow-project.pdf))
 
 ### Machine Learning:
 
