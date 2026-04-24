@@ -48,7 +48,15 @@ Mathematics | Statistics | Physics
 
 ### Machine Learning
 
-[HTML](fast-slow-project.html)
+* *Numerical Computation of Homoclinic Orbits in the Restricted Three Body Problem* ([PDF](homoclinic-project.pdf)) 
+* *Numerical Computation of Invariant Manifolds of Periodic Orbits in the Restricted Three Body Problem* ([PDF](invariant-project.pdf))  
+* *Numerical Computation of Zero Velocity Curves and Poincaré Section Plots in the Restricted Three Body Problem* ([PDF](ZVC-PSP-project.pdf))  
+* *Phase-Plane Analysis of the FitzHugh–Nagumo Neuronal Model* ([PDF](FHNM-project.pdf))  
+* *Binocular Rivalry: Dynamical Model of Perceptual Competition* ([PDF](bin-riv-project.pdf))  
+* *Fast-Slow Dynamical Systems* ([PDF](fast-slow-project.pdf))
+
+
+([HTML](Density Estimation and Clustering Techniques.html))
 
 
 
