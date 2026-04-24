@@ -56,8 +56,7 @@ Mathematics | Statistics | Physics
 * *Fast-Slow Dynamical Systems* ([PDF](fast-slow-project.pdf))
 
 
-([HTML](Density Estimation and Clustering Techniques.html))
-
+([HTML](Density%20Estimation%20and%20Clustering%20Techniques.html))
 
 
 
