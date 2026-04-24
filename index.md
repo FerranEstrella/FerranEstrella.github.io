@@ -33,7 +33,7 @@ Mathematics | Statistics | Physics
   [PDF](bsc-maths-thesis.pdf)
 ---
 
-## Relevant Projects
+## Relevant Course Projects
 
 ### Dynamical Systems
 
@@ -44,7 +44,7 @@ Mathematics | Statistics | Physics
 * *Binocular Rivalry: Dynamical Model of Perceptual Competition* ([PDF](bin-riv-project.pdf))  
 * *Fast-Slow Dynamical Systems* ([PDF](fast-slow-project.pdf))
 
-### Machine Learning:
+### Machine Learning
 
 
 
