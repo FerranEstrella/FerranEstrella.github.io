@@ -16,16 +16,16 @@ Mathematics | Statistics | Physics
 ---
 
 ## Education
-- MSc in Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia (ongoing)
+- MSc in Advanced Mathematics and Mathematical Engineering, Polytechnic University of Catalonia 
 - BSc in Mathematics, University of Barcelona
 - BSc in Physics, University of Barcelona
 
 ---
 
 ## Theses
-- **Master’s Thesis (Advanced Mathematics, ongoing)**  
+- **Master’s Thesis (Advanced Mathematics)**  
   *PI-DeepONet Architectures for the Dynamical Analysis of Large-Scale Neural Mass Models*
-  ([Master Project GitHub](https://github.com/FerranEstrella/TFM))
+  [PDF](msc-maths-thesis.pdf)([Master Project GitHub](https://github.com/FerranEstrella/TFM))
 - **Bachelor’s Thesis (Physics)**  
   *Steady State Bifurcations in Nonlinear Opinion Dynamics*  
   [PDF](bsc-physics-thesis.pdf)
