@@ -25,13 +25,13 @@ Mathematics | Statistics | Physics
 ## Theses
 - **Master’s Thesis (Advanced Mathematics)**  
   *PI-DeepONet Architectures for the Dynamical Analysis of Large-Scale Neural Mass Models*
-  [PDF](msc-maths-thesis.pdf)([Master Project GitHub](https://github.com/FerranEstrella/TFM))
+  ([PDF](msc-maths-thesis.pdf))([Master Project GitHub](https://github.com/FerranEstrella/TFM))
 - **Bachelor’s Thesis (Physics)**  
   *Steady State Bifurcations in Nonlinear Opinion Dynamics*  
-  [PDF](bsc-physics-thesis.pdf)
+  ([PDF](bsc-physics-thesis.pdf))
 - **Bachelor’s Thesis (Mathematics)**  
   *Foundations of Morse Theory in Differential Topology*  
-  [PDF](bsc-maths-thesis.pdf)
+  ([PDF](bsc-maths-thesis.pdf))
 
 ---
 
