@@ -25,7 +25,7 @@ Mathematics | Statistics | Physics
 ## Theses
 - **Master’s Thesis (Advanced Mathematics)**  
   *Stability Analysis and Neural Network Modelling of Clustered Large-Scale Brain Dynamics*
-  ([PDF](msc-maths-thesis.pdf))([Master Project GitHub](https://github.com/FerranEstrella/TFM))
+  ([PDF](msc-maths-thesis.pdf))([Master Project GitHub](https://github.com/FerranEstrella/TFM))([HTML](BrainClusters.html))
 - **Bachelor’s Thesis (Physics)**  
   *Steady State Bifurcations in Nonlinear Opinion Dynamics*  
   ([PDF](bsc-physics-thesis.pdf))
