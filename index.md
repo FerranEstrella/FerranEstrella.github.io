@@ -39,7 +39,7 @@ Mathematics | Statistics | Physics
 
 ### Dynamical Systems
 
-* *Stochastic Growth Modeling: Hubbert Curves, Bayesian Inference, and Applications* ([PDF](homoclinic-project.pdf)) 
+* *Stochastic Growth Modeling: Hubbert Curves, Bayesian Inference, and Applications* ([HTML](Stochastic-Growth-Exercises-1.html.html))([HTML](Stochastic-Growth-Exercises-2.html.html))([HTML](Stochastic-Growth-Exercises-3.html.html))([HTML](Stochastic-Growth-Exercises-4.html.html))
 * *Numerical Computation of Homoclinic Orbits in the Restricted Three Body Problem* ([PDF](homoclinic-project.pdf)) 
 * *Numerical Computation of Invariant Manifolds of Periodic Orbits in the Restricted Three Body Problem* ([PDF](invariant-project.pdf))  
 * *Numerical Computation of Zero Velocity Curves and Poincaré Section Plots in the Restricted Three Body Problem* ([PDF](ZVC-PSP-project.pdf))  
@@ -53,7 +53,6 @@ Mathematics | Statistics | Physics
 * *Density Estimation and Clustering Techniques* ([HTML](Density%20Estimation%20and%20Clustering%20Techniques.html))
 * *Dimensionality Techniques* ([HTML](Linear%20Dimensionality%20Reduction%20Techniques.html)) ([HTML](Non%20Linear%20Dimensionality%20Reduction%20Techniques.html))
 * *Generalized Additive Model for fitting hirsutism data* ([HTML](Generalized%20Additive%20Model%20for%20fitting%20hirsutism%20data.html))
-
 
 
 
