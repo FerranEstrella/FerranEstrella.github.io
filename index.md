@@ -39,7 +39,7 @@ Mathematics | Statistics | Physics
 
 ### Dynamical Systems
 
-* *Stochastic Growth Modeling: Hubbert Curves, Bayesian Inference, and Applications* ([HTML](Stochastic-Growth-Exercises-1.html.html))([HTML](Stochastic-Growth-Exercises-2.html.html))([HTML](Stochastic-Growth-Exercises-3.html.html))([HTML](Stochastic-Growth-Exercises-4.html.html))
+* *Stochastic Growth Modeling: Hubbert Curves, Bayesian Inference, and Applications* ([HTML](Stochastic-Growth-Exercises-1.html))([HTML](Stochastic-Growth-Exercises-2.html))([HTML](Stochastic-Growth-Exercises-3.html))([HTML](Stochastic-Growth-Exercises-4.html))
 * *Numerical Computation of Homoclinic Orbits in the Restricted Three Body Problem* ([PDF](homoclinic-project.pdf)) 
 * *Numerical Computation of Invariant Manifolds of Periodic Orbits in the Restricted Three Body Problem* ([PDF](invariant-project.pdf))  
 * *Numerical Computation of Zero Velocity Curves and Poincaré Section Plots in the Restricted Three Body Problem* ([PDF](ZVC-PSP-project.pdf))  
