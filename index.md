@@ -28,10 +28,10 @@ Mathematics | Statistics | Physics
   ([Thesis](msc-maths-thesis.pdf))([Slides](TFM_slides_def.pdf))([Master Project GitHub](https://github.com/FerranEstrella/TFM))
 - **Bachelor’s Thesis (Physics)**  
   *Steady State Bifurcations in Nonlinear Opinion Dynamics*  
-  ([Thesis](bsc-physics-thesis.pdf))
+  ([Thesis](bsc-physics-thesis.pdf))([Slides](TFGfisslides.pdf))
 - **Bachelor’s Thesis (Mathematics)**  
   *Foundations of Morse Theory in Differential Topology*  
-  ([Thesis](bsc-maths-thesis.pdf))
+  ([Thesis](bsc-maths-thesis.pdf))([Slides](TFGmatslides.pdf))
 
 ---
 
