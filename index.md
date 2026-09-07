@@ -51,10 +51,10 @@ Mathematics | Statistics | Physics
 ### Machine Learning
 
 * *Density Estimation and Clustering Techniques* ([Slides](Dens.pdf))([HTML](Density%20Estimation%20and%20Clustering%20Techniques.html))
-* *Dimensionality Techniques* ([Slides](Dens.pdf))([HTML](Linear%20Dimensionality%20Reduction%20Techniques.html)) ([HTML](Non%20Linear%20Dimensionality%20Reduction%20Techniques.html))
+* *Dimensionality Techniques* ([Slides](Dens.pdf))([HTML1](Linear%20Dimensionality%20Reduction%20Techniques.html))([HTML2](Non%20Linear%20Dimensionality%20Reduction%20Techniques.html))
 * *Generalized Additive Model for fitting hirsutism data* ([HTML](Generalized%20Additive%20Model%20for%20fitting%20hirsutism%20data.html))
 * *Feedforward Neural Network From Scratch* ([Code](https://github.com/FerranEstrella/FerranEstrella.github.io/blob/main/FNN.ipynb))
-* *LSTM for Sentiment Analysis* ([Slides](LSTM.pdf)) ([Code](https://github.com/FerranEstrella/FerranEstrella.github.io/blob/main/LSTMforSentimComplete.py))
+* *LSTM for Sentiment Analysis* ([Slides](LSTM.pdf))([Code](https://github.com/FerranEstrella/FerranEstrella.github.io/blob/main/LSTMforSentimComplete.py))
 * *Bayesian methods and Kernel Ridge Regression applied to global life expectancy* ([PDF](Bay.pdf))([Slides](Bays.pdf))
 
 
