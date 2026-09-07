@@ -7,6 +7,7 @@ Mathematics | Statistics | Physics
 
 ## Research Interests
 - Mathematical foundations of Machine Learning
+- AI for Science
 - Differential Equations and Dynamical Systems
 - Differential Geometry
 - Differential and Algebraic Topology
@@ -49,7 +50,7 @@ Mathematics | Statistics | Physics
 
 ### Machine Learning
 
-* *LSTM for Sentiment Analysis* ([PDF](LSTM.pdf)) ([Code](LSTMforSentimComplete.py))
+* *LSTM for Sentiment Analysis* ([Slides](LSTM.pdf)) ([Code](https://github.com/FerranEstrella/FerranEstrella.github.io/blob/main/LSTMforSentimComplete.py))
 * *Density Estimation and Clustering Techniques* ([HTML](Density%20Estimation%20and%20Clustering%20Techniques.html))
 * *Dimensionality Techniques* ([HTML](Linear%20Dimensionality%20Reduction%20Techniques.html)) ([HTML](Non%20Linear%20Dimensionality%20Reduction%20Techniques.html))
 * *Generalized Additive Model for fitting hirsutism data* ([HTML](Generalized%20Additive%20Model%20for%20fitting%20hirsutism%20data.html))
