@@ -6,7 +6,7 @@ Mathematics | Statistics | Physics
 ---
 
 ## Research Interests
-- Mathematical foundations of Machine Learning
+- Mathematical Machine Learning
 - AI for Science
 - Differential Equations and Dynamical Systems
 - Differential Geometry
