@@ -28,11 +28,9 @@ Mathematics | Statistics | Physics
   *Stability Analysis and Neural Network Modelling of Clustered Large-Scale Brain Dynamics*
   ([Thesis](msc-maths-thesis.pdf))([Slides](TFM_slides_def.pdf))([Code](https://github.com/FerranEstrella/TFM))
 - **Bachelor’s Thesis (Physics)**  
-  *Steady State Bifurcation in Nonlinear Opinion Dynamics*  
-  ([Thesis](bsc-physics-thesis.pdf))([Slides](TFGfisslides.pdf))
+  *Steady State Bifurcation in Nonlinear Opinion Dynamics* ([Thesis](bsc-physics-thesis.pdf))([Slides](TFGfisslides.pdf))
 - **Bachelor’s Thesis (Mathematics)**  
-  *Foundations of Morse Theory in Differential Topology*  
-  ([Thesis](bsc-maths-thesis.pdf))([Slides](TFGmatslides.pdf))
+  *Foundations of Morse Theory in Differential Topology* ([Thesis](bsc-maths-thesis.pdf))([Slides](TFGmatslides.pdf))
 
 ---
 
